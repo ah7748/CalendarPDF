@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "jnpkxjgPIgk=",
+  "dgSpecHash": "tGI+IAVQDx0=",
   "success": true,
   "projectFilePath": "C:\\Users\\ah847\\Desktop\\CalendarPDF\\CalendarPDF\\CalendarPDF\\CalendarPDF.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\ah847\\.nuget\\packages\\microsoft.web.webview2\\1.0.3351.48\\microsoft.web.webview2.1.0.3351.48.nupkg.sha512",
+    "C:\\Users\\ah847\\.nuget\\packages\\pdfiumviewer\\2.13.0\\pdfiumviewer.2.13.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"PdfiumViewer 2.13.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\ah847\\Desktop\\CalendarPDF\\CalendarPDF\\CalendarPDF\\CalendarPDF.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ah847\\Desktop\\CalendarPDF\\CalendarPDF\\CalendarPDF\\CalendarPDF.csproj",
+      "libraryId": "PdfiumViewer",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }

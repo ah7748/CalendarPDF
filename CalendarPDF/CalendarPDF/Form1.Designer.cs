@@ -28,32 +28,61 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            BtnUploadPDF = new Button();
+            textBox1 = new TextBox();
+            WebView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            ((System.ComponentModel.ISupportInitialize)WebView21).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // BtnUploadPDF
             // 
-            button1.Location = new Point(291, 83);
-            button1.Name = "button1";
-            button1.Size = new Size(159, 40);
-            button1.TabIndex = 0;
-            button1.Text = "Cargar PDF";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            BtnUploadPDF.Location = new Point(30, 49);
+            BtnUploadPDF.Name = "BtnUploadPDF";
+            BtnUploadPDF.Size = new Size(186, 63);
+            BtnUploadPDF.TabIndex = 0;
+            BtnUploadPDF.Text = "Cargar PDF";
+            BtnUploadPDF.UseVisualStyleBackColor = true;
+            BtnUploadPDF.Click += button1_Click;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(30, 128);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(186, 23);
+            textBox1.TabIndex = 1;
+            textBox1.TextAlign = HorizontalAlignment.Center;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // WebView21
+            // 
+            WebView21.AllowExternalDrop = true;
+            WebView21.CreationProperties = null;
+            WebView21.DefaultBackgroundColor = Color.White;
+            WebView21.Location = new Point(267, 12);
+            WebView21.Name = "WebView21";
+            WebView21.Size = new Size(499, 426);
+            WebView21.TabIndex = 2;
+            WebView21.ZoomFactor = 1D;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            Controls.Add(WebView21);
+            Controls.Add(textBox1);
+            Controls.Add(BtnUploadPDF);
             Name = "Form1";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)WebView21).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Button button1;
+        private Button BtnUploadPDF;
+        private TextBox textBox1;
+        private Microsoft.Web.WebView2.WinForms.WebView2 WebView21;
     }
 }
