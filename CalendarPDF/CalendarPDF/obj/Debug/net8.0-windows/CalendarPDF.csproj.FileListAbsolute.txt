@@ -28,3 +28,10 @@ C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-wind
 C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\obj\Debug\net8.0-windows\CalendarPDF.csproj.AssemblyReference.cache
 C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\obj\Debug\net8.0-windows\Calendar.5388545D.Up2Date
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll

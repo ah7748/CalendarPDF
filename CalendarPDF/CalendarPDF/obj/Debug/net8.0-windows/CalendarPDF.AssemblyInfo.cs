@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalendarPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df51774e1a921293ec49e307f9542454499ed314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c90c99559e4934f95d4578a6262ab1d1d7f8280")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalendarPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalendarPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

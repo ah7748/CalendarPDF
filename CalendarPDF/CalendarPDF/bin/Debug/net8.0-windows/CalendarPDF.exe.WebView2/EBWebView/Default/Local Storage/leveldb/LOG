@@ -1,2 +1,3 @@
-2025/07/25-15:01:07.633 529c Creating DB C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\CalendarPDF.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/07/25-15:01:07.661 529c Reusing MANIFEST C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\CalendarPDF.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/25-21:39:37.897 671c Reusing MANIFEST C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\CalendarPDF.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/25-21:39:37.905 671c Recovering log #3
+2025/07/25-21:39:37.908 671c Reusing old log C:\Users\ah847\Desktop\CalendarPDF\CalendarPDF\CalendarPDF\bin\Debug\net8.0-windows\CalendarPDF.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
